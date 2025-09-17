@@ -22,7 +22,7 @@ Estudante de Ciência da Computação na UFMG e um entusiasta de tecnologia apai
 ## ✨ Sobre Mim
 
 - 🎓 Cursando Ciência da Computação na UFMG.
-- 🌱 Sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
+- 🧠 Sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
 - 🤔 Curioso para entender como as coisas funcionam "por debaixo dos panos".
 - 💬 Fale comigo sobre tecnologia, programação e projetos inovadores.
 
