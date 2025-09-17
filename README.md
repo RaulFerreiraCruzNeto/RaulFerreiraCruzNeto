@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou [Raul Ferreira]
+# 👋 Olá! Eu sou Raul Ferreira
 
 Estudante de Ciência da Computação na UFMG e um entusiasta de tecnologia apaixonado por resolver problemas através do código. Atualmente, estou focando meus estudos no desenvolvimento de software e aprimorando minhas habilidades em diversas tecnologias.
 
